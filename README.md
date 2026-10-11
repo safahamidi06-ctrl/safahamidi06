@@ -5,7 +5,6 @@
 
 ♡ aspiring engineer · student · learning to code ♡
 
-*welcome to my little corner of github!*
 
 </div>
 
