@@ -3,7 +3,7 @@
 
 # hi, i'm safa! 🌷
 
-♡ aspiring biomedical engineer · student · learning to code ♡
+♡ aspiring engineer · student · learning to code ♡
 
 *welcome to my little corner of github!*
 
@@ -14,7 +14,7 @@
 ### ♡ a little about me
 
 I'm a Grade 12 student from Ontario, Canada, interested in
-biomedical engineering, computer science, and healthcare technology.
+systems design engineering, computer science, and healthcare technology.
 
 My interest in engineering grew through working and volunteering
 in healthcare, where I became curious about medical imaging
